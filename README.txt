@@ -1,6 +1,4 @@
-Apple-Mail-Scripte
-==================
+Apple-Mail-AppleScript
+======================
 
-Kleine Sammlung von sehr individuell für meinen Bedarf angepassten AppleScripten.
-
-Überwiegend geht es um das Speichern und Drucken von E-Mails und deren Anhängen.
+Speichern und Drucken von E-Mails und deren Anhängen. Sehr individuell für meinen Bedarf angepasst.
